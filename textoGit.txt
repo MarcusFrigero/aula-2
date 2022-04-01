@@ -1,0 +1,2 @@
+git push empurra os arquivos para o GitHub.
+git add adiciona os arquivos para serem enviados.
